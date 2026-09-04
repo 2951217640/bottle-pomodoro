@@ -1,4 +1,4 @@
-# 🍅 瓶子专注 · Bottle Pomodoro
+#游戏化番茄钟计时计划🍅 瓶子专注 · Bottle Pomodoro
 
 > 单文件番茄钟 Web 应用：种一棵陪你专注的树，把每 25 分钟都算数。
 > 作者：瓶子满天星 · © 2026 · [MIT License](./LICENSE)
