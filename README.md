@@ -48,6 +48,6 @@
 
 ## 许可证
 
-[MIT License](./LICENSE) · Copyright © 2026 瓶子满天星
+[MIT License](./LICENSE) · Copyright © 2026 b站瓶子满天星
 
 使用、修改、分发请保留原始版权声明。
